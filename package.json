@@ -18,10 +18,5 @@
     "server"
   ],
   "author": "Sushma Yedugani",
-  "license": "MIT",
-  "engines": {
-    "node": "5.0.0",
-    "npm": "4.6.1"
-    }
-    
+  "license": "MIT"z
 }
